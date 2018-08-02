@@ -1,3 +1,16 @@
+.vertical-menu{
+   float:left;
+   width:145px;
+   background-color:blue;
+   padding:10px;
+   margin:20px
+}
+.vertical-menu li{
+   list-style:none;
+   margin:5px
+}
+
+
 #container-paint {
    display: flex;
    flex-wrap: wrap;
@@ -49,5 +62,4 @@ h1{font-size:100px;padding:40px;background-color:yellow;width:100%;height:200px}
 @media all and (min-width: 960px) and (max-width: 1199px) { }
 @media all and (min-width: 768px) and (max-width: 959px) { }
 @media all and (min-width: 480px) and (max-width: 767px){ }
-@media all and (max-width: 599px) { }
 @media all and (max-width: 479px) {  }
