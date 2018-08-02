@@ -8,11 +8,11 @@
 .item {
    position: relative;
    width: 100%;
-   line-height: 0;background-color:grey;
+   line-height: 0;background-color:white;
 }
 
 .item--image {
-   width: 70%;margin:auto;align-items:center;
+   width: 95%;position:relative;margin-left:2.5%;margin-right:2.5%;
 }
 
 .item--heading {
