@@ -1,9 +1,22 @@
-#container {
+#container-paint {
    display: flex;
    flex-wrap: wrap;
    margin: auto;
    width: 1000px;
 }
+#container-draw {
+   display: flex;
+   flex-wrap: wrap;
+   margin: auto;
+   width: 1000px;
+}
+#container-print {
+   display: flex;
+   flex-wrap: wrap;
+   margin: auto;
+   width: 1000px;
+}
+h1{font-size:100px;padding:40px;background-color:yellow;width:100%;height:200px}
 
 .item {
    position: relative;
@@ -33,7 +46,7 @@
    line-height: 1;
 }
 
-.item--image:hover{width:100%}
+
 
 
 @media (max-width: 1280px) {
