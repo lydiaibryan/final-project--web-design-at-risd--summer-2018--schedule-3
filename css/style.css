@@ -9,7 +9,6 @@
 .vertical-menu-home{
    float:left;
    width:145px;
-   background-color:blue;
    padding:10px;
    margin:20px
 }
@@ -19,7 +18,7 @@
 }
 .vertical-menu-home li .work{
    list-style:none;
-   margin:5px
+   margin-left:25%;margin-top:10%;
 }
 
 .vertical-menu{
