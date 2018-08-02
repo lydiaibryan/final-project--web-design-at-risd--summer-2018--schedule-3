@@ -1,20 +1,6 @@
 
-.vertical-menu-home{
-   background-image:url("../img/lb-background.jpg");
-     position:fixed;background-attachment:local;background-size:100%;background-repeat:repeat-y;
-     top: 0;
-     left: 0;
 
-     /* Preserve aspet ratio */
-     min-width: 100%;
-     min-height: 100%;
-}
-
-.work{list-style-image:url("../img/1x/work-button.png");
-
-
-}
-
+.work-button{margin:auto}
 .vertical-menu{
    float:left;
    width:145px;
