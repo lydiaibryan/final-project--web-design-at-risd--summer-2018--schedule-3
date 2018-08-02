@@ -8,7 +8,7 @@
 .item {
    position: relative;
    width: 100%;
-   line-height: 0;background-color:grey;
+   line-height: 0;background-color:grey;margin:auto;
 }
 
 .item--image {
