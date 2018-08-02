@@ -1,4 +1,4 @@
-body{background-image:url("../img/lb-background.jpg");position:fixed;margin:auto}
+body{background-image:url("../img/lb-background.jpg");position:absolute;margin:auto;background-repeat:no-repeat;}
 .vertical-menu{
    float:left;
    width:145px;
