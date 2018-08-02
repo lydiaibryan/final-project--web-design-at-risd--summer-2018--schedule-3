@@ -6,6 +6,22 @@
   /* Preserve aspet ratio */
   min-width: 100%;
   min-height: 100%;}
+.vertical-menu-home{
+   float:left;
+   width:145px;
+   background-color:blue;
+   padding:10px;
+   margin:20px
+}
+.vertical-menu-home li{
+   list-style:none;
+   margin:5px
+}
+.vertical-menu-home li .work{
+   list-style:none;
+   margin:5px
+}
+
 .vertical-menu{
    float:left;
    width:145px;
@@ -17,6 +33,7 @@
    list-style:none;
    margin:5px
 }
+
 
 
 
