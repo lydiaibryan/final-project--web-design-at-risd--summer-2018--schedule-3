@@ -1,4 +1,12 @@
-body{background-image:url("../img/lb-background.jpg");position:absolute;margin:auto;background-repeat:no-repeat;}
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
 .vertical-menu{
    float:left;
    width:145px;
