@@ -1,5 +1,5 @@
-nav{background-color:yellow;width:30%;height:400px;}
-#bg {
+
+body{background-image:url("../img/lb-background.jpg");
   position:relative;background-attachment:scroll;
   top: 0;
   left: 0;
@@ -8,6 +8,7 @@ nav{background-color:yellow;width:30%;height:400px;}
   min-width: 100%;
   min-height: 100%;
 }
+nav{background-color:yellow;width:30%;height:400px;}
 .vertical-menu{
    float:left;
    width:145px;
